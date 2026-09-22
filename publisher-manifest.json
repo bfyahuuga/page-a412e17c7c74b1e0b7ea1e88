@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "863dd69a3558a505421bd090",
+  "owner": "bfyahuuga",
+  "repo": "page-a412e17c7c74b1e0b7ea1e88",
+  "title": "GoFast",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a412e17c7c74b1e0b7ea1e88",
+      "a": "GoFast",
+      "b": "2027官方最新地址导航",
+      "entity": "GoFast",
+      "brand": "GoFast",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1cb78295ee01ac008bdd80a0aac1713f5654e39dbf25e59540f85cb31d5f2a16",
+      "content": {
+        "primary_entity": "GoFast",
+        "keyword1": "GoFast",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android 与路由器客户端按设备系统选择。",
+          "AI_CLIENTS_TITLE": "客户端按设备挑",
+          "AI_CLOSING_TEXT": "挑好套餐，导入订阅，按客户端文档完成配置。",
+          "AI_CLOSING_TITLE": "开始配置 GoFast",
+          "AI_DESCRIPTION": "，围绕流量额度、设备数量与节点类型提供三档订阅，从基础版到团队版覆盖个人与多设备使用场景。",
+          "AI_FEATURES_INTRO": "流量、设备与节点三方面决定套餐档位。",
+          "AI_FEATURES_TITLE": "选择服务的关键点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台并含 IPLC 专线。",
+          "AI_FEATURE_TEXT_2": "按月或按年付灵活切换，年付更省，按年付基础版 ¥150、旗舰版 ¥350。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供原生流媒体解锁，团队版每月 1000GB 支持 20 台设备。",
+          "AI_FEATURE_TITLE_1": "套餐按流量分档",
+          "AI_FEATURE_TITLE_2": "设备与周期",
+          "AI_FEATURE_TITLE_3": "节点与解锁",
+          "AI_GUIDE_INTRO": "先确定常用设备数量与月流量，再按对应客户端完成订阅配置。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "GoFast 提供按月与按年订阅的加速服务，套餐以流量额度和同时在线设备数量区分，节点覆盖常见流媒体与游戏加速场景。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择订阅档位",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备划分",
+          "AI_HIGHLIGHT_2": "支持按月付与按年付",
+          "AI_HIGHLIGHT_3": "IPLC 专线与原生流媒体解锁",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台并含 IPLC 专线，团队版每月 1000GB 支持 20 台设备与 VIP 高带宽节点。",
+          "AI_PLANS_TITLE": "对比套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月均流量，在基础版、旗舰版和团队版之间确定档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐是否满足流媒体解锁或游戏加速需求，确认同时在线设备上限。",
+          "AI_STEP_TEXT_3": "在对应客户端文档中导入订阅信息，按步骤完成节点选择与连接配置。",
+          "AI_STEP_TITLE_1": "选服务套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "GoFast 订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。个人日常使用建议从基础版开始，需要 IPLC 专线或更多设备在线可选择旗舰版。",
+          "AI_FAQ_ANSWER_2": "可以选择按年付，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。年付适合长期使用的用户，相比按月支付能减少续费频率。",
+          "AI_FAQ_ANSWER_3": "GoFast 支持 Windows、macOS、Android、iOS 等常见系统，不同客户端对系统版本要求不同。建议先查阅对应客户端的文档说明，再导入订阅链接进行配置。",
+          "AI_FAQ_ANSWER_4": "订阅配置需要从对应客户端文档中获取导入步骤，将订阅地址粘贴到客户端的订阅管理界面后更新节点列表。如果设备数量超出当前套餐限制，需要升级到支持更多设备的套餐。",
+          "AI_FAQ_ANSWER_5": "基础版适合轻度上网和基础流媒体访问，旗舰版解锁全节点原生流媒体并包含 IPLC 专线游戏加速优化，适合对流媒体和游戏线路有要求的用户。团队版提供 VIP 高带宽节点与企业定制路由，适合多人协作或企业场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "GoFast 三档套餐在流量和设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "GoFast 是否支持按年付费？",
+          "AI_FAQ_QUESTION_3": "GoFast 支持哪些设备系统？",
+          "AI_FAQ_QUESTION_4": "订阅配置时遇到设备数量限制怎么办？",
+          "AI_FAQ_QUESTION_5": "基础版和旗舰版适合什么样的使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kilcgpa.cn",
+    "host": "kilcgpa.cn"
+  },
+  "file_hashes": {
+    "index.html": "32c47d9dfb9316a5038815e0cdcd59b21410e10d20befc4671221148e84462a8",
+    "sitemap.xml": "bc2823c70dbe3216f104563fdd977e44a201bfbaa17e2f53cdcccb0f017d2bd0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1c8737129b87db71327425ee34d7ae2596794284ba79c0c5d25dfeebed409314",
+    "robots.txt": "276cbcc660311ef714a04f68a548b694745809b094cccd01ebf0907000c5fb86",
+    "fb625acb6066330c49f827d73bb585bc.txt": "403e2a7c60fc5db462322d30b20cd66d35f86ae298834fd41779638edaa736f4"
+  },
+  "revision": "e02a323bcfa10a5d8509449e56fbdf8ab2b49a09a02478ffa8430009b2a6af54"
+}
